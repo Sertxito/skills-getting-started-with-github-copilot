@@ -46,3 +46,11 @@ OctoAcme uses a lightweight delivery process centered on short feedback loops. W
 Planning happens before larger changes so requirements, testing approach, and constraints are explicit early. Implementation is then handled incrementally, with fast checks to confirm each change works as intended.
 
 Before merging, changes are summarized in a pull request, linked back to the originating issue, and reviewed by a teammate. This keeps execution traceable from request to validation to approval while still allowing the team to move quickly.
+
+For role definitions and accountability details, see [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md).
+
+Additional process improvement artifacts:
+
+- [OctoAcme Process Improvements](./octoacme-process-improvements.md)
+- [Planning Readiness Checklist](./planning-readiness-checklist.md)
+- [Release Readiness Checklist](./release-readiness-checklist.md)
